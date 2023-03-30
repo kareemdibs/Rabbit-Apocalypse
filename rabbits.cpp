@@ -1,13 +1,5 @@
 // rabbits.cpp
 
-// Portions you are to complete are marked with a TODO: comment.
-// We've provided some incorrect return statements (so indicated) just
-// to allow this skeleton program to compile and run, albeit incorrectly.
-// The first thing you probably want to do is implement the utterly trivial
-// functions (marked TRIVIAL).  Then get Arena::display going.  That gives
-// you more flexibility in the order you tackle the rest of the functionality.
-// As you finish implementing each TODO: item, remove its TODO: comment.
-
 #include <iostream>
 #include <string>
 #include <random>
